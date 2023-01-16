@@ -60,7 +60,7 @@ Welcome to my profile, I'm a 20 years old and live on Brazil. I've graduated at 
    🚀 Don't let your dreams, be dreams.
   </h3>
 
-## My Tools
+## 💻 My Tools
 <img align="right" src="https://media.tenor.com/mAlJkmN3TEcAAAAj/hackerman-emote.gif" width="300" alt="Hacker Pepe Typing"/>
 
 ![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white")
