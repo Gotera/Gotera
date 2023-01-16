@@ -2,13 +2,12 @@
   Hello there 👋! I'm Orlando Medeiros.
 </h1>
 
-<p>
-    Front-end developer aspiring.
-</p>
-<p>
-    <a href="https://www.linkedin.com/in/orlandomedeirosdasilva/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
-  <a href="https://www.instagram.com/uorlandomedeiross/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
-</p>
+<div>
+Front-end developer aspiring.
+
+<a href="https://www.linkedin.com/in/orlandomedeirosdasilva/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+<a href="https://www.instagram.com/uorlandomedeiross/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
+</div>
 
 
 <h2>
@@ -20,7 +19,7 @@
    🤓 My real name is Orlando Medeiros da Silva Junior but some people call me Gotera/Gunto
   </li>
   <li>
-   📕 I started learning programing as a hobby and now I'm looking for a job in the area.
+   📕 I started learning programing as a hobby.
   </li>
 </ul>
 <p>
