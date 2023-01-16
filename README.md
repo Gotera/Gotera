@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6F358F&height=120&section=header"/>
+
 <h1>
   Hello there 👋! I'm Orlando Medeiros.
 </h1>
@@ -84,3 +86,4 @@ What i'm looking for
 ![SASS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white")
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6F358F&height=120&section=footer"/>
